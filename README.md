@@ -69,3 +69,7 @@ This project demonstrates practical financial data analysis skills applied to re
 Power BI
 
 Jupyter Notebook
+
+
+
+
